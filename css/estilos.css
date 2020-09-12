@@ -3,7 +3,7 @@
     height: 24em;
     width:60em;
     border-radius:0.313em 0.313em 0.313em 0.313em;
-    box-shadow: 0.313px 0.313px #888888;
+    box-shadow: 0.02em 0.02em #888888;
 }
 .pestaña{
     background-color: black;   
